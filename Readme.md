@@ -1,7 +1,7 @@
-# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
+﻿# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Вадим Ахтырцев](https://up.htmlacademy.ru/javascript/19/user/1330029).
-* Наставник: `Неизвестно`.
+* Наставник: `Александр Чудновский`.
 
 ---
 
